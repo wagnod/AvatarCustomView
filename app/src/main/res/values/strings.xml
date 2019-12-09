@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AvatarImageView</string>
+    <string name="color">color</string>
+    <string name="border">border</string>
+</resources>
